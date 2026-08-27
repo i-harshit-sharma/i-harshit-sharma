@@ -2,7 +2,9 @@
 
 I mostly work on web development and AI
 My Leetcode Stats
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=chargerconnected&theme=github_light&acceptance=false&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=chargerconnected&theme=github_light&acceptance=false&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github#gh-light-mode-only)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=chargerconnected&theme=github_dark&acceptance=false&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github#gh-dark-mode-only)
 <!--
 **i-harshit-sharma/i-harshit-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
